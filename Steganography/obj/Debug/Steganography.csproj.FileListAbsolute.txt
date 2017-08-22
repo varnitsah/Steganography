@@ -1,0 +1,9 @@
+F:\GITHUB REPOS\Steganography\Steganography\bin\Debug\Steganography.exe.config
+F:\GITHUB REPOS\Steganography\Steganography\bin\Debug\Steganography.exe
+F:\GITHUB REPOS\Steganography\Steganography\bin\Debug\Steganography.pdb
+F:\GITHUB REPOS\Steganography\Steganography\obj\Debug\Steganography.csprojResolveAssemblyReference.cache
+F:\GITHUB REPOS\Steganography\Steganography\obj\Debug\Steganography.Form1.resources
+F:\GITHUB REPOS\Steganography\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+F:\GITHUB REPOS\Steganography\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+F:\GITHUB REPOS\Steganography\Steganography\obj\Debug\Steganography.exe
+F:\GITHUB REPOS\Steganography\Steganography\obj\Debug\Steganography.pdb
